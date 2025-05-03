@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AffiliateWiz", "AffiliateWiz\AffiliateWiz.vdproj", "{BF5A68B1-11E3-4445-AE79-875FC5B6FA33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5A68B1-11E3-4445-AE79-875FC5B6FA33}.Debug|.NET.ActiveCfg = Debug
+		{BF5A68B1-11E3-4445-AE79-875FC5B6FA33}.Debug|Any CPU.ActiveCfg = Debug
+		{BF5A68B1-11E3-4445-AE79-875FC5B6FA33}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{BF5A68B1-11E3-4445-AE79-875FC5B6FA33}.Release|.NET.ActiveCfg = Release
+		{BF5A68B1-11E3-4445-AE79-875FC5B6FA33}.Release|Any CPU.ActiveCfg = Release
+		{BF5A68B1-11E3-4445-AE79-875FC5B6FA33}.Release|Mixed Platforms.ActiveCfg = Release
+		{BF5A68B1-11E3-4445-AE79-875FC5B6FA33}.Release|Mixed Platforms.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

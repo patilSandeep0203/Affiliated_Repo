@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\commercetech-ASP-live-main\\Projects\\AffiliateWiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B78B7D-B8AC-4C59-8121-16115E531188}|C:\\Users\\Lenovo\\Downloads\\commercetech-ASP-live-main\\WebSites\\AffiliateWiz|c:\\users\\lenovo\\downloads\\commercetech-asp-live-main\\websites\\affiliatewiz\\reportpage - copy (2).aspx.exclude||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B78B7D-B8AC-4C59-8121-16115E531188}|C:\\Users\\Lenovo\\Downloads\\commercetech-ASP-live-main\\WebSites\\AffiliateWiz|c:\\users\\lenovo\\downloads\\commercetech-asp-live-main\\websites\\affiliatewiz\\reportpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "reportpage - Copy (2).aspx.exclude",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\commercetech-ASP-live-main\\WebSites\\AffiliateWiz\\reportpage - Copy (2).aspx.exclude",
+              "RelativeDocumentMoniker": "..\\..\\WebSites\\AffiliateWiz\\reportpage - Copy (2).aspx.exclude",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\commercetech-ASP-live-main\\WebSites\\AffiliateWiz\\reportpage - Copy (2).aspx.exclude",
+              "RelativeToolTip": "..\\..\\WebSites\\AffiliateWiz\\reportpage - Copy (2).aspx.exclude",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T07:05:27.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "reportpage.aspx",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\commercetech-ASP-live-main\\WebSites\\AffiliateWiz\\reportpage.aspx",
+              "RelativeDocumentMoniker": "..\\..\\WebSites\\AffiliateWiz\\reportpage.aspx",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\commercetech-ASP-live-main\\WebSites\\AffiliateWiz\\reportpage.aspx",
+              "RelativeToolTip": "..\\..\\WebSites\\AffiliateWiz\\reportpage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-03T07:04:05.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

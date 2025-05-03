@@ -1,0 +1,48 @@
+C:\Users\TingWu1.CTC\Visual Studio\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.dll
+C:\Users\TingWu1.CTC\Visual Studio\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.pdb
+C:\Users\TingWu1.CTC\Visual Studio\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.dll
+C:\Users\TingWu1.CTC\Visual Studio\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.pdb
+C:\Users\TingWu1.CTC\Visual Studio\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csprojResolveAssemblyReference.cache
+C:\Users\TingWu1.CTC\Visual Studio\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.dll
+C:\Users\TingWu1.CTC\Visual Studio\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.pdb
+S:\Employee Folders\Wu, Ting\Web-DBA\Business\Websites\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.dll
+S:\Employee Folders\Wu, Ting\Web-DBA\Business\Websites\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.pdb
+S:\Employee Folders\Wu, Ting\Web-DBA\Business\Websites\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.dll
+S:\Employee Folders\Wu, Ting\Web-DBA\Business\Websites\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.pdb
+S:\Employee Folders\Wu, Ting\Web-DBA\Business\Websites\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csprojResolveAssemblyReference.cache
+S:\Employee Folders\Wu, Ting\Web-DBA\Business\Websites\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.dll
+S:\Employee Folders\Wu, Ting\Web-DBA\Business\Websites\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.pdb
+C:\Users\TingWu1\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.dll
+C:\Users\TingWu1\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.pdb
+C:\Users\TingWu1\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.dll
+C:\Users\TingWu1\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.pdb
+C:\Users\TingWu1\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csprojResolveAssemblyReference.cache
+C:\Users\TingWu1\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.dll
+C:\Users\TingWu1\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.pdb
+C:\Users\TingWu\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.dll
+C:\Users\TingWu\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.pdb
+C:\Users\TingWu\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.dll
+C:\Users\TingWu\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.pdb
+C:\Users\TingWu\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csprojResolveAssemblyReference.cache
+C:\Users\TingWu\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.dll
+C:\Users\TingWu\Documents\CommerceTechWebCode\CommerceGit\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.pdb
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.dll
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.pdb
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.dll
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.pdb
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.dll.config
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csproj.AssemblyReference.cache
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csproj.CoreCompileInputs.cache
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csproj.CopyComplete
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.dll
+C:\Users\ShailShah_qvbweem\Desktop\temp source code\ECENOW.com\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.pdb
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.dll
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\BLAffiliateWiz.pdb
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.dll
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.pdb
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\bin\Release\DLAffiliateWiz.dll.config
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffili.C610A541.Up2Date
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.dll
+C:\Users\Lenovo\Downloads\commercetech-ASP-live-main\Projects\AffiliateWiz\BLAffiliateWiz\obj\Release\BLAffiliateWiz.pdb
